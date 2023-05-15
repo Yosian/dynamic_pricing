@@ -1,0 +1,7 @@
+/.idea/dynamic_pricing.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/tests/.pytest_cache
+/tests/__init__.py
